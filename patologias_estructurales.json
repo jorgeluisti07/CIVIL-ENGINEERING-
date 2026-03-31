@@ -1,0 +1,1889 @@
+[
+  {
+    "numero": 1,
+    "categoria": "Pilares",
+    "defecto": "Aplastamiento del hormigón en pilar",
+    "gravedad": "Muy grave",
+    "gravedad_puntos": 4,
+    "caracteristicas": [
+      "Rotura rápida y muy grave",
+      "La fisura aparece en las dos caras opuestas del pilar, o en las esquinas intermedias",
+      "Se pueden perder las barras"
+    ],
+    "causas": [
+      "Sección insuficiente",
+      "Armadura insuficiente",
+      "Hormigón deficiente",
+      "Exceso de carga",
+      "Cercos muy separados o incorrectos",
+      "Error de cálculo"
+    ],
+    "medidas": [
+      "Apuntalar con urgencia",
+      "Aumentar sección o añadir perfiles"
+    ]
+  },
+  {
+    "numero": 2,
+    "categoria": "Pilares",
+    "defecto": "Desagregación del hormigón en pilar",
+    "gravedad": "Muy grave",
+    "gravedad_puntos": 4,
+    "caracteristicas": [
+      "El hormigón disminuye de resistencia y se desmorona"
+    ],
+    "causas": [
+      "Se ha confeccionado el hormigón con un producto químico que le ataca desde el interior",
+      "El hormigón está en contacto con un ducto químico que le ataca",
+      "Desagregación por entumecimiento del hormigón"
+    ],
+    "medidas": [
+      "Apuntalar con urgencia",
+      "Si el ataque es exterior eliminar la causa",
+      "Si el ataque es interior sustituir el elemento o añadir otro que lo sustituya en su cometido"
+    ]
+  },
+  {
+    "numero": 3,
+    "categoria": "Pilares",
+    "defecto": "Cortante en pilar",
+    "gravedad": "Grave",
+    "gravedad_puntos": 4,
+    "caracteristicas": [
+      "Rotura rápida y muy grave",
+      "Fisura en dos caras a 60° y en las otras dos en horizontal",
+      "A menor armadura transversal, menor es la capacidad de aviso"
+    ],
+    "causas": [
+      "Sección insuficiente",
+      "Armadura transversal insuficiente",
+      "Empuje horizontal superior al previsto",
+      "Hormigón deficiente",
+      "Fuertes momentos en pilares muy rígidos",
+      "Deslizamiento de la cimentación"
+    ],
+    "medidas": [
+      "Apuntalar con urgencia",
+      "Aumentar sección o añadir perfiles",
+      "Añadir cercos"
+    ]
+  },
+  {
+    "numero": 4,
+    "categoria": "Pilares",
+    "defecto": "Tracción en pilar",
+    "gravedad": "Grave a muy grave",
+    "gravedad_puntos": 4,
+    "caracteristicas": [
+      "Aunque la gravedad depende de la causa",
+      "Fisura o grieta que secciona al soporte en horizontal"
+    ],
+    "causas": [
+      "Asiento del cimiento por reblandecimiento del terreno",
+      "Omisión de viga centradora o insuficiente",
+      "Excavación en solar medianero",
+      "Acortamiento de las cabezas de pilares inferiores, por fluencia o recrecido defectuoso"
+    ],
+    "medidas": [
+      "Averiguar qué sucede en el cimiento",
+      "Si continúa el asiento apuntalar",
+      "Si solo surge en plantas altas, comprobar la resistencia de los pilares inferiores, especialmente en las cabezas de los mismos",
+      "Recalzar cimiento"
+    ]
+  },
+  {
+    "numero": 5,
+    "categoria": "Pilares",
+    "defecto": "Estribo en pilar",
+    "gravedad": "Grave",
+    "gravedad_puntos": 4,
+    "caracteristicas": [
+      "Fisura muy grave",
+      "Al entrar en carga el pilar, se puede llegar al colapso por pandeo de las barras"
+    ],
+    "causas": [
+      "Se han caído los estribos durante el hormigonado",
+      "Hormigón de baja resistencia en la cabeza del pilar"
+    ],
+    "medidas": [
+      "Colocar armadura transversal",
+      "Si el pilar está en carga apuntalar con urgencia"
+    ]
+  },
+  {
+    "numero": 6,
+    "categoria": "Pilares",
+    "defecto": "Pandeo en pilar",
+    "gravedad": "Grave",
+    "gravedad_puntos": 4,
+    "caracteristicas": [
+      "La gravedad depende del estado de la corrosión",
+      "Por pérdida de las paredes, el eje sucio del pilar",
+      "Si es muy avanzada sección insuficiente"
+    ],
+    "causas": [
+      "Zonas de salpicadura con vientos predominantes",
+      "Minerales del mar",
+      "Agua",
+      "Hormigón poco compacto con exceso de agua o áridos inadecuados",
+      "Escaso vibrado del hormigón",
+      "Corriente vagabunda en la armadura"
+    ],
+    "medidas": [
+      "Si la corrosión está muy avanzada proteger la armadura para que no continúe",
+      "Apuntalar"
+    ]
+  },
+  {
+    "numero": 7,
+    "categoria": "Pilares",
+    "defecto": "Corrosión en pilar",
+    "gravedad": "Grave",
+    "gravedad_puntos": 3,
+    "caracteristicas": [
+      "Rotura rápida y grave",
+      "En horizontal en una cara del pilar",
+      "A veces antes de aparecer el recubrimiento",
+      "Las fisuras están altas"
+    ],
+    "causas": [
+      "Sección insuficiente",
+      "Armadura insuficiente",
+      "Esbeltez no prevista",
+      "Mayor altura de la considerada en los cálculos",
+      "Exceso de carga en pilares esbeltos",
+      "Error de cálculo"
+    ],
+    "medidas": [
+      "Apuntalar con urgencia",
+      "Aumentar sección o añadir perfiles"
+    ]
+  },
+  {
+    "numero": 8,
+    "categoria": "Pilares",
+    "defecto": "Caída de estribos en pilar",
+    "gravedad": "Grave",
+    "gravedad_puntos": 4,
+    "caracteristicas": [
+      "Fisura muy grave",
+      "Al entrar en carga el pilar, se puede llegar al colapso por pandeo de las barras"
+    ],
+    "causas": [
+      "Se han caído los estribos durante el hormigonado",
+      "Hormigón de baja resistencia en la cabeza",
+      "Se pueden conjuntar con las fisuras del pilar"
+    ],
+    "medidas": [
+      "Comprobar la posición de los estribos con un pachómetro o realizando una prueba",
+      "Colocar la armadura transversal necesaria"
+    ]
+  },
+  {
+    "numero": 9,
+    "categoria": "Pilares",
+    "defecto": "Flexión en pilar",
+    "gravedad": "Grave",
+    "gravedad_puntos": 3,
+    "caracteristicas": [
+      "Fisura fina en horizontal en la cabeza o pie del pilar"
+    ],
+    "causas": [
+      "Armadura insuficiente",
+      "Aumento del momento por un asiento",
+      "Hormigón deficiente",
+      "Cálculo erróneo",
+      "Omisión de patillas en pilar extremo de última planta",
+      "Empuje horizontal no previsto"
+    ],
+    "medidas": [
+      "Comprobar si el hormigón tiene la resistencia requerida, si es correcta sellar las fisuras para evitar la corrosión de la armadura",
+      "Apuntalar y estudiar la causa",
+      "Añadir armadura o perfiles"
+    ]
+  },
+  {
+    "numero": 10,
+    "categoria": "Pilares",
+    "defecto": "Retracción hidráulica en pilar",
+    "gravedad": "Leve",
+    "gravedad_puntos": 1,
+    "caracteristicas": [
+      "Las fisuras se sitúan a distancias periódicas en las caras que sufren mayor soleamiento"
+    ],
+    "causas": [
+      "Exceso de agua de amasado y curado deficiente, con fuerte soleamiento",
+      "Áridos inadecuados",
+      "Cemento con escaso recubrimiento",
+      "Acumulación de la pasta en las paredes por acercar los vibradores",
+      "Cuantía geométrica pequeña de la armadura"
+    ],
+    "medidas": [
+      "Sellar las fisuras para evitar la corrosión de la armadura, si la resistencia del hormigón es correcta",
+      "Si no tiene resistencia suficiente, demoler la parte superior, o colocar un collarín de acero"
+    ]
+  },
+  {
+    "numero": 11,
+    "categoria": "Pilares",
+    "defecto": "Retracción plástica en cabeza de pilar",
+    "gravedad": "Leve",
+    "gravedad_puntos": 1,
+    "caracteristicas": [
+      "Leve siempre que el hormigón tenga la resistencia exigida"
+    ],
+    "causas": [
+      "Exceso de agua de amasado",
+      "Exceso de vibrado",
+      "Impureza en los áridos",
+      "Acumulación de finos en las cabezas de pilares",
+      "Añadidos defectuosos en pilares cortos de altura"
+    ],
+    "medidas": [
+      "Apuntalar si se estima que el error es grave",
+      "Si no tienen suficiente resistencia las cabezas de pilares, reforzarlos con collarines que abracen la zona afectada"
+    ]
+  },
+  {
+    "numero": 12,
+    "categoria": "Pilares",
+    "defecto": "Acortamiento de cabezas de pilares",
+    "gravedad": "Variable",
+    "gravedad_puntos": 2,
+    "caracteristicas": [
+      "La gravedad depende del error",
+      "Fisuras inclinadas en los cerramientos de plantas superiores por acortamiento de pilares"
+    ],
+    "causas": [
+      "Hormigón más fluido y de menos resistencia en las cabezas de pilares",
+      "Recrecidos defectuosos en las cabezas de pilares",
+      "Fallo en pilar de la planta inferior"
+    ],
+    "medidas": [
+      "Apuntalar si se estima que el error es grave",
+      "Si no tienen suficiente resistencia las cabezas de pilares, reforzarlos con collarines que abracen la zona afectada"
+    ]
+  },
+  {
+    "numero": 13,
+    "categoria": "Pilares y Vigas",
+    "defecto": "Transmisión insuficiente de las cargas en pilar",
+    "gravedad": "Grave",
+    "gravedad_puntos": 3,
+    "caracteristicas": [
+      "Estas fisuras son graves y aparecen sobre las barras en la cabeza del pilar, cerca de la base de la zapata"
+    ],
+    "causas": [
+      "Surgen por insuficiente longitud de anclaje de la armadura de la zapata o por no quedar bien atadas con la del pilar"
+    ],
+    "medidas": [
+      "Asegurar la continuidad mediante colocación de barras y si es posible con soldadura"
+    ]
+  },
+  {
+    "numero": 14,
+    "categoria": "Pilares y Vigas",
+    "defecto": "Rotura de esquinas en cabezas de pilar",
+    "gravedad": "Leve",
+    "gravedad_puntos": 1,
+    "caracteristicas": [
+      "Fisuras en las esquinas de las cabezas de los pilares"
+    ],
+    "causas": [
+      "Se han doblado las barras cuando el hormigón tenía poca resistencia",
+      "Rotura por golpes en desencofrado",
+      "Rotura por sujetarse a las barras con el hormigón aún fresco"
+    ],
+    "medidas": [
+      "Eliminar las esquinas y sustituirlas por mortero epoxi o bien hormigonar con grava menuda"
+    ]
+  },
+  {
+    "numero": 15,
+    "categoria": "Pilares y Vigas",
+    "defecto": "Flexión en viga",
+    "gravedad": "Grave",
+    "gravedad_puntos": 3,
+    "caracteristicas": [
+      "Son graves, a mayor armadura más tiempo de aviso"
+    ],
+    "causas": [
+      "Hormigón de menor resistencia",
+      "Armadura insuficiente o mal colocada",
+      "Sobrecarga excesiva",
+      "Sección insuficiente",
+      "Falta de longitud de anclaje",
+      "Desencofrado prematuro o incorrecto",
+      "Cálculo erróneo, omisión de patillas",
+      "Luz mayor a la de cálculo",
+      "Colocación de menor número de barras o de inferior diámetro"
+    ],
+    "medidas": [
+      "Apuntalar",
+      "Añadir armadura",
+      "Aumentar sección",
+      "Reducir cargas y reparar las fisuras"
+    ]
+  },
+  {
+    "numero": 16,
+    "categoria": "Pilares y Vigas",
+    "defecto": "Flexión lateral en viga",
+    "gravedad": "Grave",
+    "gravedad_puntos": 3,
+    "caracteristicas": [
+      "Grave si persiste la causa",
+      "Fisura de flexión en un lateral de la viga que se puede confundir con una retracción"
+    ],
+    "causas": [
+      "Sucede por empuje lateral de sismo en vigas de cuelgue que tienen que soportar pilares o cuando el forjado es embutido"
+    ],
+    "medidas": [
+      "Reparar la viga, colocándole la armadura necesaria y dotándole de resistencia para soportar el futuro empuje"
+    ]
+  },
+  {
+    "numero": 17,
+    "categoria": "Vigas",
+    "defecto": "Cortante",
+    "gravedad": "Muy grave",
+    "gravedad_puntos": 4,
+    "caracteristicas": [
+      "Son cerca de 45° con inclinación entre 45° y 75° hacia el pilar",
+      "La rotura puede ser instantánea"
+    ],
+    "causas": [
+      "Sección insuficiente",
+      "Armadura transversal insuficiente",
+      "Sobrecarga excesiva",
+      "Hormigón deficiente",
+      "Cálculo erróneo",
+      "Colocación de cercos con menor diámetro o más separados",
+      "Calcular un cortante, cuando lo que sucede es un punzonamiento"
+    ],
+    "medidas": [
+      "Apuntalar con urgencia",
+      "Colocar armadura transversal, formando horquillas, sujetas con resina epoxi",
+      "Reducir cargas y sellar las fisuras"
+    ]
+  },
+  {
+    "numero": 18,
+    "categoria": "Vigas",
+    "defecto": "Cortante y longitud de anclaje insuficiente",
+    "gravedad": "Muy grave",
+    "gravedad_puntos": 4,
+    "caracteristicas": [
+      "Rotura a 45° muy grave que tiende a la horizontalidad en la parte superior de la viga"
+    ],
+    "causas": [
+      "Insuficiente resistencia a cortante y de longitud de anclaje de la armadura negativa",
+      "Calcular un cortante, cuando lo que sucede es un punzonamiento"
+    ],
+    "medidas": [
+      "Apuntalar con urgencia",
+      "Añadir armadura transversal y aumentar la longitud de la armadura negativa"
+    ]
+  },
+  {
+    "numero": 19,
+    "categoria": "Vigas",
+    "defecto": "Aplastamiento del hormigón en viga",
+    "gravedad": "Grave",
+    "gravedad_puntos": 4,
+    "caracteristicas": [
+      "Rotura muy grave, la rapidez depende de la cantidad de armadura de compresión"
+    ],
+    "causas": [
+      "Sección pequeña con mucha armadura de tracción",
+      "Hormigón deficiente",
+      "Exceso de carga",
+      "Cálculo deficiente"
+    ],
+    "medidas": [
+      "Apuntalar con urgencia",
+      "Aumentar sección",
+      "Reducir cargas"
+    ]
+  },
+  {
+    "numero": 20,
+    "categoria": "Vigas",
+    "defecto": "Torsión",
+    "gravedad": "Grave",
+    "gravedad_puntos": 3,
+    "caracteristicas": [
+      "La rotura es rápida con escasa armadura",
+      "Forma una red entre 45° y 75° en el contorno de la pieza"
+    ],
+    "causas": [
+      "Sección insuficiente",
+      "Armadura transversal y longitudinal insuficiente o cercos sin soldar",
+      "Sobrecarga excesiva",
+      "Es frecuente si existen brochales o en vigas de fachadas, con forjados de grandes luces",
+      "Hormigón de menor resistencia",
+      "Cálculo deficiente"
+    ],
+    "medidas": [
+      "Apuntalar",
+      "Compensar cargas",
+      "Aumentar sección del elemento",
+      "Colocar en su perímetro pletinas sujetas con resina epoxi"
+    ]
+  },
+  {
+    "numero": 21,
+    "categoria": "Vigas",
+    "defecto": "Flexión y cortante",
+    "gravedad": "Muy grave",
+    "gravedad_puntos": 4,
+    "caracteristicas": [
+      "Es una fisura de tracción que cambia su inclinación por estar la viga sometida a fuerte cortante",
+      "La rotura puede ser muy rápida"
+    ],
+    "causas": [
+      "Sección insuficiente",
+      "Escasa armadura de tracción y transversal",
+      "Sobrecarga excesiva",
+      "Armadura de tracción baja o sin patillas y estribos muy distanciados o con escasa sección",
+      "Desencofrado prematuro",
+      "Hormigón deficiente"
+    ],
+    "medidas": [
+      "Apuntalar con urgencia",
+      "Aumentar sección",
+      "Si la dimensión es correcta añadir armadura longitudinal y transversal necesaria",
+      "Reducir cargas"
+    ]
+  },
+  {
+    "numero": 22,
+    "categoria": "Vigas",
+    "defecto": "Flexión y torsión",
+    "gravedad": "Muy grave",
+    "gravedad_puntos": 4,
+    "caracteristicas": [
+      "Es una fisura de torsión con abertura en la zona de tracción",
+      "La rotura puede ser muy rápida"
+    ],
+    "causas": [
+      "Sección insuficiente",
+      "Armadura de tracción y transversal insuficiente o cercos sin soldar",
+      "Hormigón deficiente",
+      "Es más frecuente en vigas en las que embrochalan otras de grandes luces"
+    ],
+    "medidas": [
+      "Apuntalar",
+      "Aumentar sección",
+      "Si la dimensión es correcta añadir armadura longitudinal y transversal",
+      "Reducir cargas"
+    ]
+  },
+  {
+    "numero": 23,
+    "categoria": "Vigas",
+    "defecto": "Cambio brusco de sección de armadura",
+    "gravedad": "Leve",
+    "gravedad_puntos": 1,
+    "caracteristicas": [
+      "Al acercarse la fisura al apoyo se agrava por cortante",
+      "Se ubica la fisura donde termina la armadura positiva, corta o la negativa"
+    ],
+    "causas": [
+      "Sucede en los cambios bruscos de armadura, por retracción en elementos muy cortados",
+      "Las fisuras suelen surgir en los primeros meses de su ejecución y son más frecuentes en la parte superior de la viga"
+    ],
+    "medidas": [
+      "Si el elemento no reviste gravedad por problemas de cortante, sellar las fisuras con resina epoxi",
+      "Apuntalar y aumentar la longitud de anclaje antes que se deslice la armadura"
+    ]
+  },
+  {
+    "numero": 24,
+    "categoria": "Vigas",
+    "defecto": "Fallo de anclaje de negativos",
+    "gravedad": "Media a grave",
+    "gravedad_puntos": 3,
+    "caracteristicas": [
+      "Son fisuras finas que tienden a abrirse cuando la armadura negativa tiene una longitud de patillas insuficiente y al deslizarse ésta en el hormigón le produce esas fisuras de tracción"
+    ],
+    "causas": [
+      "Sucede en vigas de grandes luces cuando la armadura negativa tiene una longitud de patillas insuficiente y al deslizarse ésta en el hormigón le produce esas fisuras de tracción"
+    ],
+    "medidas": [
+      "Apuntalar y aumentar la longitud de anclaje antes que se deslice la armadura"
+    ]
+  },
+  {
+    "numero": 25,
+    "categoria": "Vigas",
+    "defecto": "Retracción hidráulica en viga",
+    "gravedad": "Media",
+    "gravedad_puntos": 2,
+    "caracteristicas": [
+      "La gravedad depende de la sección",
+      "Se sitúan en el lugar de las barras y estribos, con aparición rápida"
+    ],
+    "causas": [
+      "Exceso de agua y finos",
+      "Falta de regado de la armadura, para enfriarla antes del hormigonado",
+      "Recubrimiento excesivo",
+      "Exceso de cemento",
+      "Mal curado del hormigón con acción fuerte del viento y sol"
+    ],
+    "medidas": [
+      "Comprobar si el hormigón tiene su resistencia",
+      "Sellar, para evitar la corrosión de la armadura",
+      "Reforzar el elemento si no tiene suficiente resistencia"
+    ]
+  },
+  {
+    "numero": 26,
+    "categoria": "Vigas",
+    "defecto": "Corrosión en armadura inferior de viga",
+    "gravedad": "Grave",
+    "gravedad_puntos": 3,
+    "caracteristicas": [
+      "Grave por falta de sección",
+      "Aparecen manchas o adherencia o fisuras paralelas a las armaduras"
+    ],
+    "causas": [
+      "No emplear un hormigón compacto",
+      "Agua o áridos inadecuados",
+      "Escaso recubrimiento",
+      "Atmósfera agresiva (zonas marítimas)",
+      "Forjados de suelo con cámara sin ventilación o de depósitos",
+      "Omisión de calzos o separadores"
+    ],
+    "medidas": [
+      "Proteger la armadura para que no continúe la corrosión y añadir nueva armadura",
+      "Ventilar los forjados"
+    ]
+  },
+  {
+    "numero": 27,
+    "categoria": "Vigas",
+    "defecto": "Movimiento del encofrado en viga durante el fraguado",
+    "gravedad": "Leve",
+    "gravedad_puntos": 1,
+    "caracteristicas": [
+      "La fisura corta la viga, cerrándose a medida que desciende"
+    ],
+    "causas": [
+      "Movimiento del encofrado y estribos de cuatro ramas montados incorrectamente estando aún fresco el hormigón"
+    ],
+    "medidas": [
+      "Sellar fisuras"
+    ]
+  },
+  {
+    "numero": 28,
+    "categoria": "Vigas",
+    "defecto": "Retracción térmica en viga",
+    "gravedad": "Leve a media",
+    "gravedad_puntos": 2,
+    "caracteristicas": [
+      "Según su ubicación, es su importancia",
+      "La fisura es rectilínea y aparece con el hormigón endurecido en las vigas armadas o más coartadas"
+    ],
+    "causas": [
+      "Escasa cuantía de armadura",
+      "Omisión de juntas de dilatación",
+      "Elementos muy coartados"
+    ],
+    "medidas": [
+      "Eliminar la causa que produce la fisura y sellarla para que no se corroa la armadura"
+    ]
+  },
+  {
+    "numero": 29,
+    "categoria": "Vigas",
+    "defecto": "Retracción hidráulica en cara inferior de viga de gran canto",
+    "gravedad": "Leve",
+    "gravedad_puntos": 1,
+    "caracteristicas": [
+      "Fisuras finas a distancias periódicas en vigas de gran canto, que surgen durante el endurecimiento del hormigón"
+    ],
+    "causas": [
+      "Curado insuficiente por no llegar a la cara inferior de la viga el agua de curado",
+      "Armadura con escaso recubrimiento",
+      "Encofrado muy caliente"
+    ],
+    "medidas": [
+      "Sellar las fisuras para evitar la corrosión de la armadura"
+    ]
+  },
+  {
+    "numero": 30,
+    "categoria": "Vigas",
+    "defecto": "Fisuras por esfuerzo rasante adherencia de viga",
+    "gravedad": "Media a grave",
+    "gravedad_puntos": 3,
+    "caracteristicas": [
+      "Fisuras que se sitúan paralelas a las barras en sus extremos sin que exista corrosión"
+    ],
+    "causas": [
+      "Armadura inferior con escasa longitud que se desliza en el hormigón"
+    ],
+    "medidas": [
+      "Aumentar la longitud de la armadura"
+    ]
+  },
+  {
+    "numero": 31,
+    "categoria": "Vigas",
+    "defecto": "Fisura en juntas de vigas cerca del apoyo",
+    "gravedad": "Media a grave",
+    "gravedad_puntos": 3,
+    "caracteristicas": [
+      "Rotura en las esquinas de las vigas cerca del apoyo"
+    ],
+    "causas": [
+      "Anclaje insuficiente de los cercos que tienden a soltarse cuando soportan un cortante elevado"
+    ],
+    "medidas": [
+      "Apuntalar",
+      "Aumentar sección o aumentar longitud de anclaje de los cercos"
+    ]
+  },
+  {
+    "numero": 32,
+    "categoria": "Vigas",
+    "defecto": "Armadura negativa suelta y fisuración",
+    "gravedad": "Grave",
+    "gravedad_puntos": 3,
+    "caracteristicas": [
+      "Fisuras paralelas a la armadura negativa por no trabajar correctamente"
+    ],
+    "causas": [
+      "Colocar corta la armadura negativa sin atar y fuera de los cercos"
+    ],
+    "medidas": [
+      "Apuntalar y colocar la armadura necesaria para que funcione de forma correcta"
+    ]
+  },
+  {
+    "numero": 33,
+    "categoria": "Ménsulas",
+    "defecto": "Flexión en ménsula",
+    "gravedad": "Grave",
+    "gravedad_puntos": 3,
+    "caracteristicas": [
+      "Las fisuras son abiertas y se cierran a medida que descienden"
+    ],
+    "causas": [
+      "Armadura de flexión insuficiente",
+      "Escasa longitud de anclaje",
+      "Exceso de carga"
+    ],
+    "medidas": [
+      "Apuntalar",
+      "Colocar la armadura necesaria"
+    ]
+  },
+  {
+    "numero": 34,
+    "categoria": "Ménsulas",
+    "defecto": "Aplastamiento en ménsula",
+    "gravedad": "Muy grave",
+    "gravedad_puntos": 4,
+    "caracteristicas": [
+      "Fisuras finas en la zona de compresión"
+    ],
+    "causas": [
+      "Sección insuficiente",
+      "Exceso de carga"
+    ],
+    "medidas": [
+      "Apuntalar con urgencia",
+      "Aumentar sección",
+      "Reducir cargas"
+    ]
+  },
+  {
+    "numero": 35,
+    "categoria": "Ménsulas",
+    "defecto": "Cortante en ménsula",
+    "gravedad": "Muy grave",
+    "gravedad_puntos": 4,
+    "caracteristicas": [
+      "Las fisuras son finas con tendencia a 45°"
+    ],
+    "causas": [
+      "Armadura transversal insuficiente",
+      "Sección insuficiente"
+    ],
+    "medidas": [
+      "Apuntalar con urgencia",
+      "Añadir armadura transversal o aumentar sección"
+    ]
+  },
+  {
+    "numero": 36,
+    "categoria": "Ménsulas",
+    "defecto": "Tracción en ménsula",
+    "gravedad": "Leve a media",
+    "gravedad_puntos": 2,
+    "caracteristicas": [
+      "Fisura en vertical o algo inclinada hacia el extremo de la ménsula, que se cierra a medida que desciende"
+    ],
+    "causas": [
+      "Deficiente anclaje de la armadura en el extremo",
+      "Retracción de la viga que apoya en la ménsula y queda muy adherida a ella",
+      "Apoyo incorrecto de la viga en la ménsula"
+    ],
+    "medidas": [
+      "Formar la junta para que la viga retraiga libremente y reparar con resina"
+    ]
+  },
+  {
+    "numero": 37,
+    "categoria": "Viguetas",
+    "defecto": "Aluminosis",
+    "gravedad": "Grave",
+    "gravedad_puntos": 3,
+    "caracteristicas": [
+      "Color del hormigón más oscuro y en ocasiones pueden surgir fisuras en el sentido de la armadura"
+    ],
+    "causas": [
+      "Empleo de cemento aluminoso",
+      "Conversión de los aluminatos",
+      "Humedad y temperatura elevada",
+      "Carbonatación del cemento",
+      "Elementos situados en zona costera, o en cuartos de baño"
+    ],
+    "medidas": [
+      "Apuntalar con urgencia",
+      "Sustituir al elemento",
+      "Como mejora se puede fraccionar su luz con vigas y aplicarle un producto que lo proteja de la humedad y corrosión"
+    ]
+  },
+  {
+    "numero": 38,
+    "categoria": "Viguetas",
+    "defecto": "Aplastamiento, compresión del hormigón en viguetas",
+    "gravedad": "Grave",
+    "gravedad_puntos": 3,
+    "caracteristicas": [
+      "Es grave si se produce en todas las viguetas",
+      "Las fisuras son finas por aplastamiento del hormigón"
+    ],
+    "causas": [
+      "Viguetas cortas hormigonadas defectuosamente",
+      "Debilitación del hormigón por golpes al desmochar las cabezas de las viguetas",
+      "Al entrar en carga se fisura el hormigón",
+      "Excesivas compresiones",
+      "Elevado asiento diferencial"
+    ],
+    "medidas": [
+      "Picar cada capa de compresión, colocar la armadura necesaria y hormigonar con grava menuda a última hora de la tarde (si es época calurosa), estando el forjado frío"
+    ]
+  },
+  {
+    "numero": 39,
+    "categoria": "Viguetas",
+    "defecto": "Omisión de negativos en viguetas",
+    "gravedad": "Media",
+    "gravedad_puntos": 2,
+    "caracteristicas": [
+      "Fisuras abiertas, para la viga, a la vigueta"
+    ],
+    "causas": [
+      "Omisión de negativos de viguetas",
+      "Negativos bajos",
+      "Sección de armadura insuficiente en los negativos"
+    ],
+    "medidas": [
+      "Si existen fisuras, repararlas",
+      "Si no existen daños, colocar un enchufado de mayor espesor aunque exista la posibilidad que se fisure al entrar en carga"
+    ]
+  },
+  {
+    "numero": 40,
+    "categoria": "Viguetas",
+    "defecto": "Deformación de forjado por viguetas con puntales muy separados",
+    "gravedad": "Leve",
+    "gravedad_puntos": 1,
+    "caracteristicas": [
+      "Se produce una deformación muy pronunciada en las viguetas durante el hormigonado y fraguado"
+    ],
+    "causas": [
+      "Utilización de viguetas de suelo con puntales muy separados",
+      "Caída o descenso de puntales durante el hormigonado",
+      "Mayor carga por acumulación del hormigón durante el vertido"
+    ],
+    "medidas": [
+      "Si no existen fisuras, repararlas",
+      "Si no existen daños, colocar un enchufado de mayor espesor aunque exista la posibilidad que se fisure al entrar en carga"
+    ]
+  },
+  {
+    "numero": 41,
+    "categoria": "Viguetas",
+    "defecto": "Viguetas que se desprenden",
+    "gravedad": "Grave",
+    "gravedad_puntos": 3,
+    "caracteristicas": [
+      "Las viguetas se desprenden y caen limpiamente"
+    ],
+    "causas": [
+      "Hormigonar con las viguetas muy calientes por la acción solar",
+      "Utilizar bovedillas muy peraltadas",
+      "No macizar de hormigón las cabezas de viguetas",
+      "Exceso de polvo o desencofrado",
+      "Hormigón sin vibrar",
+      "Omisión de armadura de conexión o sustentación"
+    ],
+    "medidas": [
+      "Apuntalar",
+      "Macizar el apoyo colocando una armadura de suspensión",
+      "Colocar tacos químicos"
+    ]
+  },
+  {
+    "numero": 42,
+    "categoria": "Viguetas",
+    "defecto": "Esfuerzo rasante",
+    "gravedad": "Grave",
+    "gravedad_puntos": 3,
+    "caracteristicas": [
+      "Fisura que tiende a cortar la vigueta horizontalmente"
+    ],
+    "causas": [
+      "Rotura en cabeza de viguetas por golpes",
+      "No quedan unidas las viguetas con el hormigón de la capa de compresión"
+    ],
+    "medidas": [
+      "Apuntalar",
+      "Comprobar si existe pérdida del tensado de la armadura",
+      "Colocar tacos químicos"
+    ]
+  },
+  {
+    "numero": 43,
+    "categoria": "Viguetas",
+    "defecto": "Corrosión en viguetas",
+    "gravedad": "Media a grave",
+    "gravedad_puntos": 3,
+    "caracteristicas": [
+      "Las fisuras se sitúan en el lugar de la armadura"
+    ],
+    "causas": [
+      "Ambiente agresivo, especialmente zona marítima",
+      "Forjados alisantes con cámara y sin ventilación",
+      "Forjados situados en depósitos o bodegas"
+    ],
+    "medidas": [
+      "Si el estado de la corrosión es avanzado, apuntalar",
+      "Proteger la armadura para que no continúe la corrosión y colocar nueva armadura o sustituirla en su cometido"
+    ]
+  },
+  {
+    "numero": 44,
+    "categoria": "Viguetas",
+    "defecto": "Cortante en viguetas",
+    "gravedad": "Muy grave",
+    "gravedad_puntos": 4,
+    "caracteristicas": [
+      "Pocas veces surgen fisuras porque la rotura suele ser instantánea"
+    ],
+    "causas": [
+      "Sección insuficiente",
+      "Hormigón de menor resistencia",
+      "Aglomeración de armadura transversal",
+      "Omisión de armadura transversal",
+      "Exceso de carga",
+      "Luces en viguetas mayores a las previstas"
+    ],
+    "medidas": [
+      "Apuntalar con urgencia",
+      "Aumentar sección",
+      "Acortar luces",
+      "Colocar armadura transversal",
+      "Reducir cargas"
+    ]
+  },
+  {
+    "numero": 45,
+    "categoria": "Voladizos",
+    "defecto": "Flexión en voladizo de vigueta",
+    "gravedad": "Grave o media",
+    "gravedad_puntos": 3,
+    "caracteristicas": [
+      "Fisura de flexión que corta transversalmente la cara inferior de la vigueta"
+    ],
+    "causas": [
+      "Exceso de carga",
+      "Armadura insuficiente",
+      "Luz mayor a la de cálculo",
+      "No quedar unido el hormigón in situ a las viguetas",
+      "Puede surgir por colocar sopandas al mismo nivel cuando las viguetas tienen contraflechas"
+    ],
+    "medidas": [
+      "Apuntalar",
+      "Sellar con resina y colocar la armadura necesaria",
+      "Reducir cargas"
+    ]
+  },
+  {
+    "numero": 46,
+    "categoria": "Voladizos",
+    "defecto": "Flexión en voladizo de forjado",
+    "gravedad": "Muy grave",
+    "gravedad_puntos": 4,
+    "caracteristicas": [
+      "Fisura de flexión y desprendimiento del voladizo"
+    ],
+    "causas": [
+      "Omisión o colocar baja la armadura negativa del voladizo",
+      "Vuelco del voladizo por no tener continuidad"
+    ],
+    "medidas": [
+      "Apuntalar con urgencia, investigar la causa y colocar la armadura necesaria"
+    ]
+  },
+  {
+    "numero": 47,
+    "categoria": "Voladizos",
+    "defecto": "Fisuras en viguetas introducidas en la viga",
+    "gravedad": "Media",
+    "gravedad_puntos": 2,
+    "caracteristicas": [
+      "Las fisuras se sitúan en contacto con las viguetas introducidas en la viga"
+    ],
+    "causas": [
+      "Introducir las viguetas en la viga, interrumpiendo la continuidad del hormigón"
+    ],
+    "medidas": [
+      "Sellar las fisuras con resina epoxi a presión",
+      "Si se ha desprendido el hormigón y quedan las barras vistas, reparar con mortero epoxi"
+    ]
+  },
+  {
+    "numero": 48,
+    "categoria": "Voladizos",
+    "defecto": "Fisura por cortante en forjado y pilar",
+    "gravedad": "Muy grave",
+    "gravedad_puntos": 4,
+    "caracteristicas": [
+      "Rotura muy grave a 45° por cortante en forjado inferior y superior"
+    ],
+    "causas": [
+      "Colocar solo perfiles en la planta afectada donde el pilar no tiene la resistencia suficiente"
+    ],
+    "medidas": [
+      "Colocar con urgencia soportes metálicos en las plantas inferiores y superiores"
+    ]
+  },
+  {
+    "numero": 49,
+    "categoria": "Forjados",
+    "defecto": "Rotura por flexión en cara superior de un forjado reticular",
+    "gravedad": "Grave",
+    "gravedad_puntos": 3,
+    "caracteristicas": [
+      "Fisuras abiertas en un mismo plano"
+    ],
+    "causas": [
+      "Cálculo erróneo",
+      "Mal montaje de la armadura",
+      "Menor canto del forjado que el considerado en el cálculo",
+      "Hormigón de menor resistencia",
+      "Transmisión de carga de los forjados superiores a través de los puntales durante el hormigonado"
+    ],
+    "medidas": [
+      "Apuntalar",
+      "Reforzar colocando la armadura necesaria"
+    ]
+  },
+  {
+    "numero": 50,
+    "categoria": "Forjados",
+    "defecto": "Rotura por flexión en cara inferior en un forjado reticular",
+    "gravedad": "Grave",
+    "gravedad_puntos": 3,
+    "caracteristicas": [
+      "Fisuras abiertas en un mismo plano en el centro de la luz"
+    ],
+    "causas": [
+      "Cálculo erróneo",
+      "Mal montaje de la armadura",
+      "Menor canto del forjado que el considerado en el cálculo",
+      "Hormigón de menor resistencia",
+      "Transmisión de carga de los forjados superiores a través de los puntales durante el hormigonado"
+    ],
+    "medidas": [
+      "Apuntalar",
+      "Reforzar colocando la armadura necesaria"
+    ]
+  },
+  {
+    "numero": 51,
+    "categoria": "Forjados",
+    "defecto": "Cortante en nervios que entregan en el ábaco",
+    "gravedad": "Muy grave",
+    "gravedad_puntos": 4,
+    "caracteristicas": [
+      "La rotura es a 45° y difícilmente se puede observar, por su poca capacidad de aviso"
+    ],
+    "causas": [
+      "Cálculo erróneo",
+      "Omisión de la armadura transversal",
+      "Hormigón de menor resistencia",
+      "Mayor carga de la prevista"
+    ],
+    "medidas": [
+      "Apuntalar con urgencia",
+      "Aumentar sección",
+      "Colocar la armadura transversal necesaria"
+    ]
+  },
+  {
+    "numero": 52,
+    "categoria": "Forjados",
+    "defecto": "Retracción hidráulica en forjado muy coartado",
+    "gravedad": "Leve a media",
+    "gravedad_puntos": 2,
+    "caracteristicas": [
+      "Fisura abierta en la cara superior del forjado por estar coartado en su retracción por dos muros de contención"
+    ],
+    "causas": [
+      "Forjado coartado en su retracción",
+      "No colocar armadura longitudinal en el forjado",
+      "No realizar juntas de hormigonado"
+    ],
+    "medidas": [
+      "Esperar que el forjado complete su retracción y sellar la fisuras",
+      "Si surge por retracción térmica es conveniente colocar armadura longitudinal para reducir los daños"
+    ]
+  },
+  {
+    "numero": 53,
+    "categoria": "Forjados",
+    "defecto": "Punzonamiento",
+    "gravedad": "Muy grave",
+    "gravedad_puntos": 4,
+    "caracteristicas": [
+      "La rotura es rápida y muy grave",
+      "Las fisuras son cerradas y se sitúan alrededor del pilar"
+    ],
+    "causas": [
+      "Escaso espesor del forjado",
+      "Armadura transversal insuficiente",
+      "Hormigón de menor resistencia que la prevista"
+    ],
+    "medidas": [
+      "Apuntalar con urgencia",
+      "Aumentar sección",
+      "Colocar armadura transversal",
+      "Colocar en la cabeza del pilar perfiles en forma de cruz"
+    ]
+  },
+  {
+    "numero": 54,
+    "categoria": "Forjados",
+    "defecto": "Torsión de compatibilidad",
+    "gravedad": "Media a grave",
+    "gravedad_puntos": 3,
+    "caracteristicas": [
+      "Fisuras en el perímetro de vigas y zunchos perimetrales"
+    ],
+    "causas": [
+      "Vigas perimetrales en las que empotran viguetas de grandes luces",
+      "Cercos en vigas sin cerrar",
+      "Zunchos de borde a los que le llegan nervios de grandes luces"
+    ],
+    "medidas": [
+      "Apuntalar y colocar la armadura longitudinal y transversal necesaria o aumentar sección del elemento"
+    ]
+  },
+  {
+    "numero": 55,
+    "categoria": "Forjados",
+    "defecto": "Torsión de equilibrio",
+    "gravedad": "Muy grave",
+    "gravedad_puntos": 4,
+    "caracteristicas": [
+      "Es imprescindible que la viga sea capaz de soportar la torsión a que está sometida"
+    ],
+    "causas": [
+      "Sucede en las vigas donde el forjado no tiene continuidad",
+      "Viga no preparada para soportar la torsión",
+      "Cercos sin soldar o con insuficiente longitud de anclaje"
+    ],
+    "medidas": [
+      "Apuntalar con urgencia",
+      "Aumentar sección",
+      "Eliminar la torsión",
+      "Colocar armadura longitudinal y transversal para soportar la torsión"
+    ]
+  },
+  {
+    "numero": 56,
+    "categoria": "Forjados",
+    "defecto": "Aplastamiento de la base de bovedillas",
+    "gravedad": "Grave",
+    "gravedad_puntos": 3,
+    "caracteristicas": [
+      "Se aplastan y desprenden las bases de las bovedillas en una calle de viguetas",
+      "Suele ser producido por una causa grave"
+    ],
+    "causas": [
+      "Asiento de la cimentación",
+      "Deformación excesiva del forjado"
+    ],
+    "medidas": [
+      "Averiguar y eliminar la causa que provoca el fallo",
+      "Reparar las fisuras"
+    ]
+  },
+  {
+    "numero": 57,
+    "categoria": "Deformaciones",
+    "defecto": "Flecha en tabique que sobre viga",
+    "gravedad": "Leve",
+    "gravedad_puntos": 1,
+    "caracteristicas": [
+      "Aparece horizontal en los extremos al flechar la viga inferior y al estar adherida al forjado la tabiquería"
+    ],
+    "causas": [
+      "Falta de rigidez de la viga si soporta un cerramiento",
+      "Hormigón de inferior resistencia",
+      "Desapuntalado prematuro",
+      "El daño es más acusado en las plantas inferiores, aumento de la sobrecarga"
+    ],
+    "medidas": [
+      "Esperar que la viga complete su deformación",
+      "Colocar debajo del tabique un material elástico",
+      "Aumentar la rigidez de la viga"
+    ]
+  },
+  {
+    "numero": 58,
+    "categoria": "Deformaciones",
+    "defecto": "Flecha en tabique que sobre viguetas",
+    "gravedad": "Leve",
+    "gravedad_puntos": 1,
+    "caracteristicas": [
+      "Fisura con abertura constante en sentido transversal a las viguetas"
+    ],
+    "causas": [
+      "Falta de rigidez de las viguetas",
+      "Transmisión de carga de los forjados superiores a través de los cerramientos",
+      "Discontinuidad de las cabezas de viguetas",
+      "Aplastamiento de las cabezas de viguetas",
+      "No quedar unidas las viguetas al hormigón del forjado",
+      "Aumento de la sobrecarga",
+      "Oquedades en la capa de compresión del forjado"
+    ],
+    "medidas": [
+      "Esperar que las viguetas completen su deformación",
+      "Colocar debajo del tabique un material elástico",
+      "Eliminar la causa que origina la deformación"
+    ]
+  },
+  {
+    "numero": 59,
+    "categoria": "Deformaciones",
+    "defecto": "Flecha en tabique que sobre brochales",
+    "gravedad": "Leve",
+    "gravedad_puntos": 1,
+    "caracteristicas": [
+      "Fisura abierta que se cierra cuando se aleja de la viga del centro de la luz",
+      "Es parecida a un asiento del cimiento"
+    ],
+    "causas": [
+      "Falta de rigidez de la viga en que apoya el forjado",
+      "Acumulación de cargas",
+      "Se acentúa más en las plantas inferiores"
+    ],
+    "medidas": [
+      "Compensar cargas",
+      "Colocar un material más flexible en la base y coronación del tabique"
+    ]
+  },
+  {
+    "numero": 60,
+    "categoria": "Deformaciones",
+    "defecto": "Flecha negativa en viga",
+    "gravedad": "Leve",
+    "gravedad_puntos": 1,
+    "caracteristicas": [
+      "Fisuras verticales en tabique por aplastamiento al elevarse la viga de menor luz"
+    ],
+    "causas": [
+      "Tabique muy retacado que apoya sobre viga de pequeña luz que se eleva por estar situada entre dos vigas de grandes luces"
+    ],
+    "medidas": [
+      "Aumentar la rigidez del forjado",
+      "Aumentar la rigidez de la viga de borde",
+      "Comprobar si la viga es capaz de soportar la torsión y si los estribos son cerrados"
+    ]
+  },
+  {
+    "numero": 61,
+    "categoria": "Deformaciones",
+    "defecto": "Aplastamiento de tabiques por deformación de las plantas",
+    "gravedad": "Media",
+    "gravedad_puntos": 2,
+    "caracteristicas": [
+      "Fisuras en tabiques de planta baja por deformación excesiva de los forjados"
+    ],
+    "causas": [
+      "No calcular deformaciones",
+      "No prever la transmisión de cargas a través de los forjados",
+      "No capacitar al forjado primero para soportar mayor carga",
+      "Considerar la misma deformación en vigas pequeñas que en grandes"
+    ],
+    "medidas": [
+      "Dejar un espacio entre el tabique y el forjado",
+      "Si la deformación es muy elevada con otros problemas, reforzar la viga dotándola de mayor rigidez"
+    ]
+  },
+  {
+    "numero": 62,
+    "categoria": "Deformaciones",
+    "defecto": "Fisura vertical en voladizos",
+    "gravedad": "Media",
+    "gravedad_puntos": 2,
+    "caracteristicas": [
+      "En fachada la abertura es constante",
+      "En sentido del vuelo la fisura se cierra al acercarse al pilar"
+    ],
+    "causas": [
+      "Falta de rigidez de las viguetas del voladizo, por la transmisión de cargas de los voladizos superiores"
+    ],
+    "medidas": [
+      "Si hay acumulación de cargas, reforzar las viguetas o independizar forjados",
+      "Aumentar la rigidez de las viguetas",
+      "Si se estima conveniente, apuntalar"
+    ]
+  },
+  {
+    "numero": 63,
+    "categoria": "Deformaciones",
+    "defecto": "Fisura de arco de descarga en voladizo",
+    "gravedad": "Leve",
+    "gravedad_puntos": 1,
+    "caracteristicas": [
+      "Fisuras que tienden a formar arco de descarga y sucede con más frecuencia en los voladizos inferiores"
+    ],
+    "causas": [
+      "Transmisión de cargas de las plantas superiores",
+      "Zunchos con escasa rigidez"
+    ],
+    "medidas": [
+      "Reforzar zuncho o evitar la transmisión de cargas"
+    ]
+  },
+  {
+    "numero": 64,
+    "categoria": "Deformaciones",
+    "defecto": "Fisura de viga en voladizo",
+    "gravedad": "Leve a media",
+    "gravedad_puntos": 2,
+    "caracteristicas": [
+      "Fisura a 45° en voladizos inferiores"
+    ],
+    "causas": [
+      "Transmisión de cargas de las plantas superiores",
+      "Viga con escasa rigidez"
+    ],
+    "medidas": [
+      "Aumentar la rigidez de la viga",
+      "Evitar la transmisión de cargas"
+    ]
+  },
+  {
+    "numero": 65,
+    "categoria": "Deformaciones",
+    "defecto": "Retracción térmica en forjado",
+    "gravedad": "Leve",
+    "gravedad_puntos": 1,
+    "caracteristicas": [
+      "La fisura está en un mismo plano, se cierra cuando su aparición es retardada"
+    ],
+    "causas": [
+      "Ausencia o insuficiente armadura de reparto",
+      "Exceso de agua o finos",
+      "Elemento muy coartado"
+    ],
+    "medidas": [
+      "Eliminar la causa y reparar"
+    ]
+  },
+  {
+    "numero": 66,
+    "categoria": "Deformaciones",
+    "defecto": "Flecha en forjado",
+    "gravedad": "Leve",
+    "gravedad_puntos": 1,
+    "caracteristicas": [
+      "Las fisuras son cerradas en distintos planos, va desapareciendo cuando se acerca a la viga"
+    ],
+    "causas": [
+      "Ausencia de armadura de reparto",
+      "Sobrecarga elevada en una zona del forjado",
+      "En voladizo, omisión de zuncho de borde"
+    ],
+    "medidas": [
+      "Eliminar la causa",
+      "En voladizo, añadir un zuncho de borde"
+    ]
+  },
+  {
+    "numero": 67,
+    "categoria": "Deformaciones",
+    "defecto": "Retracción térmica y flecha en forjado",
+    "gravedad": "Leve",
+    "gravedad_puntos": 1,
+    "caracteristicas": [
+      "Fisura abierta que se cierra al acercarse a la viga y está en distintos planos"
+    ],
+    "causas": [
+      "Ausencia de armadura de reparto",
+      "Exceso de agua o finos",
+      "Elemento muy coartado",
+      "Sobrecarga muy elevada en una zona del forjado",
+      "En voladizo, omisión de zuncho de borde"
+    ],
+    "medidas": [
+      "Eliminar la causa y reparar",
+      "En voladizo, añadir zuncho de borde"
+    ]
+  },
+  {
+    "numero": 68,
+    "categoria": "Deformaciones",
+    "defecto": "Giro en viga de borde por flecha del forjado",
+    "gravedad": "Media o leve",
+    "gravedad_puntos": 2,
+    "caracteristicas": [
+      "Fisura cerrada en distintos planos, que aparece cuando se acerca al pilar"
+    ],
+    "causas": [
+      "Forjado de luz grande que flecta por no tener suficiente rigidez",
+      "Viga de borde con escasa rigidez a torsión",
+      "Aparece con la obra en servicio"
+    ],
+    "medidas": [
+      "Aumentar la rigidez del forjado",
+      "Aumentar la rigidez de la viga de borde",
+      "Comprobar si la viga es capaz de soportar la torsión y si los estribos son cerrados"
+    ]
+  },
+  {
+    "numero": 69,
+    "categoria": "Térmicos",
+    "defecto": "Rotura de solería sobre azotea de planta baja",
+    "gravedad": "Leve o media",
+    "gravedad_puntos": 1,
+    "caracteristicas": [
+      "Fisuras cerradas en distintos planos"
+    ],
+    "causas": [
+      "Dilatación de la solería de azotea que se ha colocado a tope con el pretil",
+      "La aparición es lenta y retardada"
+    ],
+    "medidas": [
+      "Abrir un espacio entre la solería y el pretil, para evitar el empuje",
+      "Esperar que el elemento complete su retracción",
+      "Se puede reparar colocando una malla metálica o grapas de acero"
+    ]
+  },
+  {
+    "numero": 70,
+    "categoria": "Térmicos",
+    "defecto": "Rotura en el interior de un pretil por empuje de solería",
+    "gravedad": "Leve",
+    "gravedad_puntos": 1,
+    "caracteristicas": [
+      "Fisura horizontal, cerrada en un mismo plano en dirección frecuente y es producida por una gran variedad de causas"
+    ],
+    "causas": [
+      "Dilatación de la solería que produce un empuje en el pretil",
+      "Omisión de juntas en solería"
+    ],
+    "medidas": [
+      "Dejar un espacio entre el pretil y la solería"
+    ]
+  },
+  {
+    "numero": 71,
+    "categoria": "Térmicos",
+    "defecto": "Rotura en tabiques longitudinales por dilatación de estructura",
+    "gravedad": "Leve",
+    "gravedad_puntos": 1,
+    "caracteristicas": [
+      "Las fisuras se sitúan en los pórticos extremos, aparecen en diagonal y más abiertas en el centro"
+    ],
+    "causas": [
+      "Retracción de la estructura que es más acusada cuando tiene mayor longitud y se ha ejecutado en época calurosa"
+    ],
+    "medidas": [
+      "Esperar que se completen en su mayor medida las retracciones y se hayan adaptado los cerramientos"
+    ]
+  },
+  {
+    "numero": 72,
+    "categoria": "Térmicos",
+    "defecto": "Fisuras transversales en tabiques por dilatación de estructura",
+    "gravedad": "Leve",
+    "gravedad_puntos": 1,
+    "caracteristicas": [
+      "Las fisuras son cerradas en distintos planos, suelen surgir en tabiques en horizontal y a veces de forma inclinada"
+    ],
+    "causas": [
+      "Dilatación del forjado superior, estando muy retacado y unido a éste la tabiquería"
+    ],
+    "medidas": [
+      "Eliminar la dilatación del forjado y reparar la fisura",
+      "Independizar el tabique o muro del forjado y reparar la fisura con grapas o tañas de acero"
+    ]
+  },
+  {
+    "numero": 73,
+    "categoria": "Cerramientos",
+    "defecto": "Efecto invernadero",
+    "gravedad": "Leve",
+    "gravedad_puntos": 1,
+    "caracteristicas": [
+      "Fisuras abiertas por retracción de la fábrica al dilatar el forjado"
+    ],
+    "causas": [
+      "Aumento de la temperatura interior de la cubierta, por no existir huecos o no ser suficientes y sufrir un fuerte soleamiento"
+    ],
+    "medidas": [
+      "Abrir huecos de forma correcta para la aireación"
+    ]
+  },
+  {
+    "numero": 74,
+    "categoria": "Cerramientos",
+    "defecto": "Rotura a cortante en un muro por retracción del forjado",
+    "gravedad": "Media a grave",
+    "gravedad_puntos": 3,
+    "caracteristicas": [
+      "La fisura es cerrada y tiende a tomar distintos planos"
+    ],
+    "causas": [
+      "Mayor retracción, por ejecutarse el forjado en época calurosa y quedar muy adherido al muro"
+    ],
+    "medidas": [
+      "Si el daño va en aumento, independizar el forjado"
+    ]
+  },
+  {
+    "numero": 75,
+    "categoria": "Cerramientos",
+    "defecto": "Rotura en entrante de voladizos",
+    "gravedad": "Leve",
+    "gravedad_puntos": 1,
+    "caracteristicas": [
+      "La fisura surge en los entrantes de voladizos por retracción"
+    ],
+    "causas": [
+      "No se ha previsto este tipo de fallo en el diseño de la estructura",
+      "Omisión de la armadura a 45° en las esquinas"
+    ],
+    "medidas": [
+      "Esperar que el hormigón complete su retracción y colocar la armadura necesaria"
+    ]
+  },
+  {
+    "numero": 76,
+    "categoria": "Cerramientos",
+    "defecto": "Fisuras en la unión de cerramientos con pilares",
+    "gravedad": "Leve",
+    "gravedad_puntos": 1,
+    "caracteristicas": [
+      "Fisura vertical en la unión de la fábrica con el pilar"
+    ],
+    "causas": [
+      "Mortero con alta dosificación en cemento y árido inadecuado",
+      "Ejecutar los cerramientos a tope con los pilares",
+      "Aplacado sobre pilares sin colocación de armadura",
+      "Movimientos de estructura"
+    ],
+    "medidas": [
+      "Colocar armadura para evitar la fisuración"
+    ]
+  },
+  {
+    "numero": 77,
+    "categoria": "Cerramientos",
+    "defecto": "Retracción del mortero en fachada con acabado de plaqueta",
+    "gravedad": "Leve",
+    "gravedad_puntos": 1,
+    "caracteristicas": [
+      "Fisuras abiertas a 45° que cortan el cerramiento en las esquinas de las ventanas"
+    ],
+    "causas": [
+      "Retracción durante el fraguado del mortero",
+      "No proyectar el cerramiento para evitar este daño",
+      "Aparecen en las primeras semanas"
+    ],
+    "medidas": [
+      "Si se trata de una retracción, esperar que se complete y como mejora se puede colocar una venda elástica"
+    ]
+  },
+  {
+    "numero": 78,
+    "categoria": "Cerramientos",
+    "defecto": "Retracción con cerramiento inferior del forjado",
+    "gravedad": "Leve",
+    "gravedad_puntos": 1,
+    "caracteristicas": [
+      "Las fisuras se sitúan en los pórticos extremos, aparecen en diagonal y más abiertas"
+    ],
+    "causas": [
+      "Retracción de la estructura que es más acusada cuando tiene mayor longitud y se ha ejecutado en época calurosa",
+      "Colocación a tope del cerramiento",
+      "Movimiento de la estructura"
+    ],
+    "medidas": [
+      "Esperar que se completen en su mayor medida las retracciones y se hayan adaptado los cerramientos"
+    ]
+  },
+  {
+    "numero": 79,
+    "categoria": "Cerramientos",
+    "defecto": "Rotura por asentamiento de estructura",
+    "gravedad": "Leve",
+    "gravedad_puntos": 1,
+    "caracteristicas": [
+      "Aparición rápida de fisuras poco profundas que se cortan unas a otras"
+    ],
+    "causas": [
+      "Exceso de cemento y agua",
+      "Áridos de mala calidad",
+      "Acción fuerte del viento y sol"
+    ],
+    "medidas": [
+      "Si los daños son en un enlucido, picar y reparar en época de humedad"
+    ]
+  },
+  {
+    "numero": 80,
+    "categoria": "Cerramientos",
+    "defecto": "Asentamiento de estructura",
+    "gravedad": "Leve",
+    "gravedad_puntos": 1,
+    "caracteristicas": [
+      "Aparición rápida de fisuras poco profundas que se cortan unas a otras"
+    ],
+    "causas": [
+      "Exceso de cemento y agua",
+      "Áridos de mala calidad",
+      "Acción fuerte del viento y sol"
+    ],
+    "medidas": [
+      "Si los daños son en un enlucido, picar y reparar en época de humedad"
+    ]
+  },
+  {
+    "numero": 81,
+    "categoria": "Cimentaciones",
+    "defecto": "Asiento de zapatas medianeras",
+    "gravedad": "Media a grave",
+    "gravedad_puntos": 3,
+    "caracteristicas": [
+      "Fisura abierta en la cara medianera y también en la cara inferior del forjado"
+    ],
+    "causas": [
+      "Omisión de viga centradora",
+      "Excavación en terreno medianero",
+      "No confundir con una retracción o falta de negativos de viguetas",
+      "Las fisuras aparecen con la estructura en servicio",
+      "Elevado asiento de las zapatas"
+    ],
+    "medidas": [
+      "Ver qué sucede y eliminar la causa",
+      "Si se estima conveniente, apuntalar",
+      "Recalzar la cimentación y grapar las grietas"
+    ]
+  },
+  {
+    "numero": 82,
+    "categoria": "Cimentaciones",
+    "defecto": "Inclinación de edificios",
+    "gravedad": "Grave",
+    "gravedad_puntos": 3,
+    "caracteristicas": [
+      "Se convierte en grave cuando rompen los elementos estructurales",
+      "Las primeras fisuras surgen en sentido diagonal en los cerramientos y tabiquería"
+    ],
+    "causas": [
+      "Construir sobre un relleno en ladera",
+      "Edificar una zona sobre relleno y otra sobre terreno firme",
+      "Construir sobre resto de cimentaciones",
+      "Corriente de agua con arrastre de cimentaciones",
+      "Excavación en solar medianero con desplazamiento de tierras"
+    ],
+    "medidas": [
+      "Eliminar la causa que provoca el asiento y recalzar la cimentación si se estima oportuno"
+    ]
+  },
+  {
+    "numero": 83,
+    "categoria": "Cimentaciones",
+    "defecto": "Desgarramiento en juntas de dilatación de zapatas",
+    "gravedad": "Media",
+    "gravedad_puntos": 2,
+    "caracteristicas": [
+      "Fisura en vertical que tiende a cortar la zapata en la entre la unión de los dos pilares"
+    ],
+    "causas": [
+      "Elevada retracción de la estructura de bastante longitud",
+      "No colocar armadura en la parte superior de la zapata"
+    ],
+    "medidas": [
+      "Sellar la fisura con resina y colocar la armadura necesaria"
+    ]
+  },
+  {
+    "numero": 84,
+    "categoria": "Cimentaciones",
+    "defecto": "Punzonamiento en zapata o losa",
+    "gravedad": "Muy grave",
+    "gravedad_puntos": 4,
+    "caracteristicas": [
+      "La rotura tiende a los 45° y no son fáciles de observar por estar el elemento enterrado"
+    ],
+    "causas": [
+      "Sección insuficiente",
+      "Hormigón deficiente",
+      "Omisión de armadura de punzonamiento",
+      "Cálculo erróneo"
+    ],
+    "medidas": [
+      "Apuntalar con urgencia",
+      "Aumentar espesor de la zapata"
+    ]
+  },
+  {
+    "numero": 85,
+    "categoria": "Cimentaciones",
+    "defecto": "Elevación de zapata",
+    "gravedad": "Media a grave",
+    "gravedad_puntos": 3,
+    "caracteristicas": [
+      "Grieta inclinada en los cerramientos que se alejan de forma ascendente desde la zapata que se ha elevado"
+    ],
+    "causas": [
+      "Hinchamiento del terreno por construir la cimentación en terreno expansivo en estado seco",
+      "Se puede confundir con el asiento de las zapatas laterales"
+    ],
+    "medidas": [
+      "Investigar la causa y corregir",
+      "Si continúa el asiento, apuntalar y recalzar el cimiento",
+      "Si se trata de terreno expansivo, llegar con el recalce hasta la profundidad activa"
+    ]
+  },
+  {
+    "numero": 86,
+    "categoria": "Cimentaciones",
+    "defecto": "Asiento de una zapata",
+    "gravedad": "Media a grave",
+    "gravedad_puntos": 3,
+    "caracteristicas": [
+      "Grietas inclinadas en los cerramientos que se alejan de forma descendente de la zapata que ha asentado"
+    ],
+    "causas": [
+      "Hinchamiento del terreno por ejecutar la cimentación en terreno expansivo en estado seco",
+      "Se puede confundir con el asiento de una zapata central"
+    ],
+    "medidas": [
+      "Recalzar la cimentación hasta llegar a la profundidad activa y reparar las grietas"
+    ]
+  },
+  {
+    "numero": 87,
+    "categoria": "Cimentaciones",
+    "defecto": "Elevación de dos zapatas",
+    "gravedad": "Media a grave",
+    "gravedad_puntos": 3,
+    "caracteristicas": [
+      "Grietas inclinadas en los cerramientos que se alejan de forma descendente de las zapatas que se han elevado"
+    ],
+    "causas": [
+      "Presión excesiva sobre el terreno",
+      "Reblandecimiento del terreno",
+      "Falta de apoyo del cimiento por una corriente de agua",
+      "Rotura en las redes",
+      "Desecación del terreno"
+    ],
+    "medidas": [
+      "Investigar la causa y corregir",
+      "Si continúa el asiento, apuntalar y recalzar el cimiento",
+      "Si se trata de terreno expansivo, llegar con el recalce hasta la profundidad activa"
+    ]
+  },
+  {
+    "numero": 88,
+    "categoria": "Cimentaciones",
+    "defecto": "Asiento de dos zapatas",
+    "gravedad": "Media a grave",
+    "gravedad_puntos": 3,
+    "caracteristicas": [
+      "Grietas inclinadas en los cerramientos que se alejan de forma descendente de las zapatas que han asentado"
+    ],
+    "causas": [
+      "Presión excesiva sobre el terreno",
+      "Falta de apoyo del cimiento por reblandecimiento del terreno",
+      "Desecación del terreno"
+    ],
+    "medidas": [
+      "Averiguar la causa y eliminarla",
+      "Si continúa el asiento, apuntalar y recalzar la cimentación"
+    ]
+  },
+  {
+    "numero": 89,
+    "categoria": "Cimentaciones",
+    "defecto": "Asiento y giro del de una esquina de cimentación",
+    "gravedad": "Media a grave",
+    "gravedad_puntos": 3,
+    "caracteristicas": [
+      "Grieta abierta en distintos planos que seccionan el muro de fábrica"
+    ],
+    "causas": [
+      "Desecación del terreno",
+      "Pérdida de apoyo de la cimentación",
+      "Cimentación muy superficial que queda afectada por los cambios climatológicos"
+    ],
+    "medidas": [
+      "Eliminar la causa que provoca el asiento y reparar las grietas con grapas de acero",
+      "Si se estima conveniente recalzar la cimentación"
+    ]
+  },
+  {
+    "numero": 90,
+    "categoria": "Cimentaciones",
+    "defecto": "Asiento largo en un cimiento",
+    "gravedad": "Media a grave",
+    "gravedad_puntos": 3,
+    "caracteristicas": [
+      "Grieta por la parte alta del muro y abierta por la parte superior que se cierra a medida que se aleja en la zona de mayor asiento"
+    ],
+    "causas": [
+      "Asiento de mayor magnitud en una cimentación",
+      "Excavación más profunda en solar medianero",
+      "Zanjas profundas para instalación de redes"
+    ],
+    "medidas": [
+      "Recalzar el cimiento con apoyo a mayor profundidad, donde no quede afectado por los cambios de humedad",
+      "Si se trata de viviendas, apuntalar antes de que se produzca el desplome de la cimentación"
+    ]
+  },
+  {
+    "numero": 91,
+    "categoria": "Cimentaciones",
+    "defecto": "Giro en cimiento",
+    "gravedad": "Media a grave",
+    "gravedad_puntos": 3,
+    "caracteristicas": [
+      "Fisura abierta en la parte alta del muro y desciende, se cierra cuando desciende",
+      "La gravedad depende de la magnitud del daño"
+    ],
+    "causas": [
+      "Cimentación muy superficial que queda afectada por los cambios climatológicos",
+      "Excavación en solar medianero"
+    ],
+    "medidas": [
+      "Recalzar el cimiento con apoyo a mayor profundidad, donde no quede afectado por los cambios climatológicos",
+      "Si se trata de viviendas, apuntalar antes de que se produzca el desplome"
+    ]
+  },
+  {
+    "numero": 92,
+    "categoria": "Cimentaciones",
+    "defecto": "Fisuras en tabiquería interior por descenso de un pilar",
+    "gravedad": "Variable",
+    "gravedad_puntos": 3,
+    "caracteristicas": [
+      "La gravedad depende de la magnitud y la causa del asiento"
+    ],
+    "causas": [
+      "Acortamiento de las cabezas de pilares",
+      "Asiento de una zapata"
+    ],
+    "medidas": [
+      "Averiguar y eliminar la causa que provoca el fallo",
+      "Reparar las fisuras"
+    ]
+  },
+  {
+    "numero": 93,
+    "categoria": "Cimentaciones",
+    "defecto": "Asiento por abertura de hueco",
+    "gravedad": "Media",
+    "gravedad_puntos": 2,
+    "caracteristicas": [
+      "Fisura abierta a 45° que se cierra a medida que desciende"
+    ],
+    "causas": [
+      "Rotura en las redes",
+      "Construir sobre rellenos sin compactar",
+      "Desecación del terreno",
+      "Disminución de la capacidad portante del terreno"
+    ],
+    "medidas": [
+      "Eliminar la causa que produce el asiento",
+      "Recalzar"
+    ]
+  },
+  {
+    "numero": 94,
+    "categoria": "Cimentaciones",
+    "defecto": "Asiento central de un muro o de fachada",
+    "gravedad": "Media",
+    "gravedad_puntos": 2,
+    "caracteristicas": [
+      "La grieta forma un arco de descarga"
+    ],
+    "causas": [
+      "Rotura en las redes",
+      "Construir sobre rellenos sin compactar",
+      "Desecación del terreno",
+      "Disminución de la capacidad portante del terreno"
+    ],
+    "medidas": [
+      "Eliminar la causa que produce el asiento",
+      "Recalzar"
+    ]
+  },
+  {
+    "numero": 95,
+    "categoria": "Cimentaciones",
+    "defecto": "Aplastamiento de un tabique por asiento de la cimentación",
+    "gravedad": "Media a grave",
+    "gravedad_puntos": 3,
+    "caracteristicas": [
+      "Fisuras verticales muy finas por aplastamiento de tabiquería en planta baja"
+    ],
+    "causas": [
+      "Aparecen con la obra en servicio, por asiento de consolidación del terreno, estando la tabiquería sobre una solera y retacada con el forjado"
+    ],
+    "medidas": [
+      "Apuntalar si continúa el asiento y recalzar la cimentación"
+    ]
+  },
+  {
+    "numero": 96,
+    "categoria": "Cimentaciones",
+    "defecto": "Asiento de la cimentación perimetral",
+    "gravedad": "Media a grave",
+    "gravedad_puntos": 3,
+    "caracteristicas": [
+      "Fisuras a 45°",
+      "La gravedad depende de cómo le afecta a la estructura"
+    ],
+    "causas": [
+      "Construir la cimentación muy superficial estando el suelo húmedo, este daño es más acusado en terrenos expansivos"
+    ],
+    "medidas": [
+      "Apuntalar si continúa el asiento y recalzar la cimentación"
+    ]
+  }
+]
